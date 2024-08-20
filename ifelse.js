@@ -3,5 +3,5 @@ if(true){
 }
 else {
     console.log("Not Raining");
-
 }
+
