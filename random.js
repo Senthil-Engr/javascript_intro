@@ -1,5 +1,2 @@
-var num = Math.random();
-console.log(num);
-// math.floor function
-var c = Math.floor(5.7)
-console.log(c);
+var randomNumber = Math.random()*10;
+console.log(Math.floor(randomNumber));
